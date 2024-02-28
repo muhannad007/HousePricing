@@ -1,2 +1,2 @@
 # repback
-Repository for testing
+House price prediction in Boston city
